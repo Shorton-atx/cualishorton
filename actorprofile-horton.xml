@@ -5,7 +5,7 @@
 	<actor>
 		<name type="text"> Robert Downey, Jr. </name>
 		<dob type="date"> April 4, 1965 </dob>
-		<height type=text> 5'9" </height>
+		<height type="text"> 5'9" </height>
 		<films>
 			<film>
 				<filmtitle type="text">The Avengers</filmtitle>
@@ -38,7 +38,7 @@
 	<actor>
 		<name type="text"> Mark Ruffalo </name>
 		<dob type="date"> November 22, 1967 </dob>
-		<height type=text> 5'8" </height>
+		<height type="text"> 5'8" </height>
 		<films>
 			<film>
 				<filmtitle type="text">The Avengers</filmtitle>
@@ -50,7 +50,7 @@
 	<actor>
 		<name type="text"> Jeremy Renner </name>
 		<dob type="date"> January 7, 1971 </dob>
-		<height type=text> 5'9" </height>
+		<height type="text"> 5'9" </height>
 		<films>
 			<film>
 				<filmtitle type="text">The Avengers</filmtitle>
